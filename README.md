@@ -13,3 +13,8 @@ This webpage allows you to read your Japanese content one sentence at a time, ma
 ## File types
 - [x] Text files
 - [ ] EPUB files
+
+## Future Improvements
+- Ability to use EPUB files
+- Timer
+- Sentences/Hour measurement
