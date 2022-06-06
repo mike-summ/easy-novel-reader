@@ -24,3 +24,4 @@ This webpage allows you to read your Japanese content one sentence at a time, ma
 - Ability to use EPUB files
 - Timer
 - Sentences/Hour measurement
+- A library to select between different files
